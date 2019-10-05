@@ -1,6 +1,6 @@
 # Hermes
 PoE Market Scanner
-Created using Python 3
+Written in Python 3
 Utilized auto py to exe, no additional files needed to get the program running
 
 Features:
